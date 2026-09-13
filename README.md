@@ -63,6 +63,28 @@
 [검색 결과 카드]  
 검색 결과로 도쿄 여행 상품 카드 3개를 세로로 배치한다. 각 카드는 화이트 배경, 큰 라운드 모서리, 좌측 여행지 사진과 우측 상품 정보를 포함한다.
 
+
+A Korean travel booking mobile app search results screen 
+with a dark navy blue header (#1C2F6B). 
+
+The screen shows "여행지 검색" (Travel Search) as the title 
+with a back arrow. Below is a search bar showing "도쿄" (Tokyo).
+
+Filter pill buttons: 항공권(Flights), 호텔(Hotels), 명소(Attractions) 
+in light blue/white style.
+
+Three travel package cards stacked vertically, each containing:
+A small rectangular photo on the left (Tokyo landmarks):
+Card 1: Tokyo Tower with cherry blossoms (3-day package, 699,000원)
+Card 2: Senso-ji Temple with red pagoda (4-day package, 799,000원)
+Card 3: Tokyo city street/Shibuya (5-day package, 899,000원)
+Package details: dates, airline info, hotel star rating
+Orange-coral "예약하기" (Book Now) button on the right
+Star rating ★4.2~4.5 at the bottom
+
+White card background with subtle shadow.
+Bottom navigation bar with 홈/검색/여행/프로필 icons.
+Mobile UI, clean modern design, Korean language interface.
 첫 번째 카드:
 - 배지: 인기
 - 상품명: 도쿄 3일
