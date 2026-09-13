@@ -46,6 +46,10 @@
 
 <img width="1024" height="1024" alt="202609130213_generated_image (2)" src="https://github.com/user-attachments/assets/8539e790-4ee6-4123-af47-a969fb163bc5" />
 
+<img width="1024" height="1024" alt="202609130213_generated_image (1)" src="https://github.com/user-attachments/assets/ca074447-c461-408f-a3e4-4755fe037492" />
+
+<img width="1024" height="1024" alt="202609130213_generated_image" src="https://github.com/user-attachments/assets/cc6edf0e-99bd-4017-857f-0731899d52c6" />
+
 모바일 여행 예약 앱의 “여행지 검색” 화면을 제작한다.
 
 ※ 스마트폰 기기 프레임, 노치, 상태표시줄 없이 세로형 모바일 앱의 순수 UI 스크린샷 형태로 제작한다.
