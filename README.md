@@ -43,7 +43,8 @@
 #### 3-1. 초안 프롬프트
 
 **초안 이미지 프롬프트**
-![Uploading 202609130213_generated_image.png…]()
+
+<img width="1024" height="1024" alt="202609130213_generated_image" src="https://github.com/user-attachments/assets/87bf4496-37d6-4251-b79d-ff808e89b6ab" />
 
 모바일 여행 예약 앱의 “여행지 검색” 화면을 제작한다.
 
